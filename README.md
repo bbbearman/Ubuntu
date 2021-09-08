@@ -1,4 +1,4 @@
-[**ROS Wiki (cn)**](http://wiki.ros.org/cn/ROS/Tutorials)
+[**ROS Wiki (CN)**](http://wiki.ros.org/cn/ROS/Tutorials)
 
 ## Create Workspace
 ```bash
