@@ -1,11 +1,33 @@
 ## Configure Terminator
 
-1.**install and uninstall** 
+1.**Shortcuts**
+
+|键盘命令	    | 说明                 |
+|----------------------------------|
+Ctrl+Shift+T	新建一个terminator窗口
+Ctrl+Shift+E	对terminator窗口垂直分割
+Ctrl+Shift+O	对terminator窗口水平分割
+Ctrl+Shift+W	关闭当前的terminator窗口
+Ctrl+Shift+I	另外创建一个新的terminator窗口
+Ctrl+Shift+N	在分割的不同窗口之间切换（向后）
+Ctrl+Shift+P	在分割的不同窗口之间切换（向前）
+Ctrl+Shift+T	新建一个Tab窗口
+Ctrl+Tab	切换下一个窗口
+Ctrl+Shift+T	新建一个terminator窗口
+Ctrl+Shift+F	当前terminator窗口进行搜索
+Ctrl+Shift+X	当前分割的窗口最大化
+Alt+A	将所有分割terminator同步
+Alt+O	关闭分割terminator同步
+
+
+
+
+2.**install and uninstall** 
 
 `sudo apt-get install terminator`  
 `sudo apt-get remove terminator`
 
-2.**configure file**
+3.**configure file**
 
 `gedit ~/.config/terminator/config`
 
