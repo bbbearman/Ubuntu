@@ -1,11 +1,11 @@
 ## Configure Terminator
 
-**install and uninstall** 
+1.**install and uninstall** 
 
 `sudo apt-get install terminator`  
 `sudo apt-get remove terminator`
 
-**configure file**
+2.**configure file**
 
 `gedit ~/.config/terminator/config`
 
