@@ -1,6 +1,6 @@
 ## Configure Terminator
 
-1.**Shortcuts*
+1.**Shortcuts**
 
 + `Ctrl+Shift+T`	新建一个terminator窗口
 + `Ctrl+Shift+E`	对terminator窗口垂直分割
